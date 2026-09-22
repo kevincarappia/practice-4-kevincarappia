@@ -104,3 +104,12 @@ line-height: 1.05;
     font-size:15px;
     text-transform: uppercase;
 }
+
+.section-head {
+    border-top: 1px solid #EFE9DF;
+    padding: 34px 24px;
+}
+
+.section-head p {
+    max-width: 68ch;
+}
